@@ -1,0 +1,11 @@
+
+.left{border-left:2px solid #000000;}
+.top{border-top:1px solid #000000;}
+.bottom{border-bottom:1px solid #000000;}
+.line{width:8px;}
+
+.bar{background-color: black;height: 2px;}
+.node{padding:2px;border:1px solid #666666;
+	background: -moz-linear-gradient(left top , #CCCCCC, #EEEEEE) repeat scroll 0 0 transparent;
+	border-radius: 2px 2px 2px 2px;
+}
